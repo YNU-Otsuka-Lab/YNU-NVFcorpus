@@ -4,13 +4,13 @@ The Nonverbal Function Corpus (NVFCorpus) is a multimodal conversation dataset d
 
 Further details are available in the following reference.
 
-#Citation 
+# Citation
 
 If you use any of the resources provided on this page in any of your publications we ask you to cite the following paper.
 
 Kazuhiro Otsuka, Takumi Nishihira, Yuya Nishimura, and Issa Tamura, "NVFCorpus: A Corpus for Analyzing Multimodal and Multifunctional Nonverbal Behavior in Multiparty Conversations," In Proceedings of ACM 28th ACM International Conference on Multimodal Interaction (ICMI ’26), October 05–09, 2026, DOI: 10.1145/3776574.3831172
 
-#Copyright
+# Copyright
 
 See license.txt 
 
