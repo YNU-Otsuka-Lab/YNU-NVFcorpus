@@ -10,6 +10,11 @@ If you use any of the resources provided on this page in any of your publication
 
 Kazuhiro Otsuka, Takumi Nishihira, Yuya Nishimura, and Issa Tamura, "NVFCorpus: A Corpus for Analyzing Multimodal and Multifunctional Nonverbal Behavior in Multiparty Conversations," In Proceedings of ACM 28th ACM International Conference on Multimodal Interaction (ICMI ’26), October 05–09, 2026, DOI: 10.1145/3776574.3831172
 
+# Data Repository
+
+To access the NVFCorpus data, please visit our Hugging Face site. 
+<https://huggingface.co/datasets/Otsuka-Lab/NVFCorpus>
+
 # Copyright
 
 See license.txt 
